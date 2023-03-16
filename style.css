@@ -1,0 +1,44 @@
+.book {
+    display: inline-block;
+    width: 225px;
+    height: 250px;
+    background-color: #eb7e7e;
+    border: 1px solid #000000;
+    text-align: center;
+    box-shadow:3px 3px 6px rgb(0, 0, 0);
+  }
+  
+  .book img {
+    max-width: 65%;
+    max-height: 60%;
+    margin: 10px;
+    box-shadow:3px 3px 6px rgb(255, 255, 255);
+  }
+  
+  .book h2 {
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .book p {
+
+    width: 150px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 0px;
+    margin: 0;
+    padding: 0px;
+  }
+
+  
+  
+  .book a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+  }
